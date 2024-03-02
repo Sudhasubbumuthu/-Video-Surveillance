@@ -22,4 +22,5 @@ If the alarm mode is activated (t key pressed), the system monitors for motion.
 Motion detection is performed by calculating the absolute difference between the current frame and the initial frame captured when the program starts.
 If motion is detected, a threshold sum is computed, and if it exceeds a certain value, an SMS alert is sent using the Twilio API.
 An alarm sound is played if motion is detected for a certain duration.
-This project could serve as a simple surveillance system for monitoring motion in a specific area using a webcam and receiving alerts via SMS.
+This project could serve as a simple surveillance system for monitoring motion in a specific area using a webcam and receiving alerts via SMS.![Screenshot (6)](https://github.com/Sudhasubbumuthu/-Video-Surveillance/assets/115452718/3644ef1f-0e1a-4f8d-a65c-da5436cce27c)
+
